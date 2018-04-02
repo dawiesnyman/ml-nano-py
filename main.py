@@ -8,7 +8,7 @@ Created on Tue Mar 27 17:46:36 2018
 #import py_compile
 #py_compile.compile('renders.py', 'renders.pyc')
 
-
+#http://www.ritchieng.com/machine-learning-project-customer-segments/#
 # Import libraries necessary for this project
 import numpy as np
 import pandas as pd
